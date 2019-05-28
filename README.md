@@ -1,2 +1,1 @@
-# hello-world
-first reposytory
+# kortekh
